@@ -18,5 +18,5 @@ I manually improved my spacing and indentation for better readability on index.h
 ---
 
 ## 🙏 Acknowledgments
-A sincere thanks to our instructor **Ulises**, and TAs **Tom** and **Chris**.  
+A sincere thanks to our instructor **Ulises**, and TAs **Lewis** and **Chris**.  
 Their clear explanations and examples during week 2 and week 3 guided me through this assignment. I especially appreciate the patient support and ongoing feedback on my previous assignments from Tom and Chris as I continue my Level 2 learning journey.
